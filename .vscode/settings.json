@@ -1,0 +1,8 @@
+{
+    "editor.cursorStyle": "line",
+    "editor.multiCursorModifier": "alt",
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 25,
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "selection"
+}
